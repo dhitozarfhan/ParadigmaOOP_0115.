@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pertama 1", "pertama 1\pert
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kedua 2", "kedua 2\kedua 2.vcxproj", "{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "agregasi", "agregasi\agregasi.vcxproj", "{9327454D-1BEF-408C-92B5-EBF00C5BB905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Release|x64.Build.0 = Release|x64
 		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Release|x86.ActiveCfg = Release|Win32
 		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Release|x86.Build.0 = Release|Win32
+		{9327454D-1BEF-408C-92B5-EBF00C5BB905}.Debug|x64.ActiveCfg = Debug|x64
+		{9327454D-1BEF-408C-92B5-EBF00C5BB905}.Debug|x64.Build.0 = Debug|x64
+		{9327454D-1BEF-408C-92B5-EBF00C5BB905}.Debug|x86.ActiveCfg = Debug|Win32
+		{9327454D-1BEF-408C-92B5-EBF00C5BB905}.Debug|x86.Build.0 = Debug|Win32
+		{9327454D-1BEF-408C-92B5-EBF00C5BB905}.Release|x64.ActiveCfg = Release|x64
+		{9327454D-1BEF-408C-92B5-EBF00C5BB905}.Release|x64.Build.0 = Release|x64
+		{9327454D-1BEF-408C-92B5-EBF00C5BB905}.Release|x86.ActiveCfg = Release|Win32
+		{9327454D-1BEF-408C-92B5-EBF00C5BB905}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
