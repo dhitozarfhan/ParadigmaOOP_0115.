@@ -16,4 +16,4 @@ public:
 		cout << name << "mati\n";
 	}
 };
-#endif#pragma once
+#endif
