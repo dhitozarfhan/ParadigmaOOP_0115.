@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pertama 1", "pertama 1\pertama 1.vcxproj", "{669B2D05-501B-4E5E-B424-28A8AE47DCC9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kedua 2", "kedua 2\kedua 2.vcxproj", "{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{669B2D05-501B-4E5E-B424-28A8AE47DCC9}.Release|x64.Build.0 = Release|x64
 		{669B2D05-501B-4E5E-B424-28A8AE47DCC9}.Release|x86.ActiveCfg = Release|Win32
 		{669B2D05-501B-4E5E-B424-28A8AE47DCC9}.Release|x86.Build.0 = Release|Win32
+		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Debug|x64.ActiveCfg = Debug|x64
+		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Debug|x64.Build.0 = Debug|x64
+		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Debug|x86.ActiveCfg = Debug|Win32
+		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Debug|x86.Build.0 = Debug|Win32
+		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Release|x64.ActiveCfg = Release|x64
+		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Release|x64.Build.0 = Release|x64
+		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Release|x86.ActiveCfg = Release|Win32
+		{39D6328F-6ACF-42C1-9BB2-18CA187CED7D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
