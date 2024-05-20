@@ -3,6 +3,6 @@
 using namespace std;
 
 
-#include "anak.H"
-#include "ibu.H"
+#include "Anak.H"
+#include "Ibu.H"
 
